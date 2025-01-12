@@ -14,7 +14,9 @@ unlisted: true
     <img width="900" src="/blog/2025-01-xx-theres-a-zero-percent-chance-that-open-source-doesnt-win.png"/>
 </p>
 
-AI is democratizing software development at an unprecedented pace, and it's creating a virtuous cycle that makes open source unstoppable. As development costs plummet and AI tools make codebases more accessible than ever, the traditional moats of proprietary software are evaporating. Here's why I believe that the future of software is inevitably open.
+AI is democratizing software development at an unprecedented pace, and it's creating a virtuous cycle that makes open source unstoppable. As development costs plummet and AI tools make codebases more accessible than ever, the traditional moats of proprietary software are evaporating.
+
+Here's why I believe that the future of software is inevitably open.
 
 <!-- truncate -->
 
